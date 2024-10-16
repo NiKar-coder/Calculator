@@ -208,7 +208,7 @@ def main():
     qdarktheme.enable_hi_dpi()
     app = QApplication(sys.argv)
     qdarktheme.setup_theme(
-        custom_colors={"primary": "fff"}, corner_shape="sharp")
+        custom_colors={"primary": "fff"})
     ex = Calc_Window()
     ex.show()
     sys.exit(app.exec())
