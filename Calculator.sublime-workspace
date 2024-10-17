@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bo",
+				"BoxLayout"
+			],
+			[
+				"bo",
+				"boxlayout"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"Text",
+				"TextInput"
+			],
+			[
+				"tex",
+				"textinput"
+			],
+			[
+				"Gr",
+				"GridLayout"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Calculator.py",
+			"settings":
+			{
+				"buffer_size": 7790,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"",
+					null,
+					"AgAAAAALAAAAAAAAEwsAAAAAAAAAAAAAEwsAAAAAAAATCwAAAAAAAB8AAADQstC10LTQuNGC0LUg0LLRi9GA0LDQttC10L3QuNC1",
+					"AQAAAAAAAAABAAAAEAsAAAAAAAAACwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP8KAAAAAAAA/woAAAAAAAACAAAA0JI",
+					"AQAAAAAAAAABAAAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "E"
+					},
+					"AQAAAP8KAAAAAAAAAAsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/woAAAAAAAD/CgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABuHgAAZnJvbSBQeVF0NiBpbXBvcnQgUXRDb3JlLCBRdFdpZGdldHMsIFF0R3VpCmZyb20gUHlRdDYuUXRDb3JlIGltcG9ydCBRdApmcm9tIFB5UXQ2LlF0V2lkZ2V0cyBpbXBvcnQgUUFwcGxpY2F0aW9uLCBRTWFpbldpbmRvdywgUU1lc3NhZ2VCb3gKaW1wb3J0IHN5cwppbXBvcnQgcWRhcmt0aGVtZQppbXBvcnQgbWF0aAoKCmNsYXNzIENhbGN1bGF0b3IoKToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmdsb2JzID0gewogICAgICAgICAgICAiX19idWlsdGluc19fIjoge30sCiAgICAgICAgICAgICJzcXJ0IjogbGFtYmRhIHg6IG1hdGguc3FydCh4KSwKICAgICAgICAgICAgImFicyI6IGxhbWJkYSB4OiBhYnMoeCksCiAgICAgICAgICAgICJ0ZyI6IGxhbWJkYSB4OiBtYXRoLnRhbihtYXRoLnJhZGlhbnMoeCkpLAogICAgICAgICAgICAic2luIjogbGFtYmRhIHg6IG1hdGguc2luKG1hdGgucmFkaWFucyh4KSksCiAgICAgICAgICAgICJjdGciOiBsYW1iZGEgeDogbWF0aC5jb3MobWF0aC5yYWRpYW5zKHgpKSAvIG1hdGguc2luKG1hdGgucmFkaWFucyh4KSksCiAgICAgICAgICAgICJjb3MiOiBsYW1iZGEgeDogbWF0aC5jb3MobWF0aC5yYWRpYW5zKHgpKSwKICAgICAgICAgICAgInJhZCI6IGxhbWJkYSB4OiBtYXRoLnJhZGlhbnMoeCksCiAgICAgICAgICAgICJkZWciOiBsYW1iZGEgeDogbWF0aC5kZWdyZWVzKHgpCiAgICAgICAgfQoKICAgIGRlZiBjYWxjdWxhdGUoc2VsZiwgbnVtKToKICAgICAgICBmb3IgeCwgeSBpbiAoIl4iLCAiKioiKSwgKCIsIiwgIi4iKSwgKCIgIiwgIiIpOgogICAgICAgICAgICBudW0gPSBudW0ucmVwbGFjZSh4LCB5KQogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHN0cihyb3VuZChldmFsKG51bSwgc2VsZi5nbG9icywge30pLCAzKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gIkVycm9yISIKCgpGT05UID0gUXRHdWkuUUZvbnQoKQpGT05ULnNldFN0eWxlU3RyYXRlZ3koUXRHdWkuUUZvbnQuU3R5bGVTdHJhdGVneS5QcmVmZXJBbnRpYWxpYXMpCgoKY2xhc3MgVWlfTWFpbldpbmRvdyhvYmplY3QpOgogICAgZGVmIHNldHVwVWkoc2VsZiwgTWFpbldpbmRvdyk6CiAgICAgICAgTWFpbldpbmRvdy5zZXRPYmplY3ROYW1lKCJNYWluV2luZG93IikKICAgICAgICBNYWluV2luZG93LnJlc2l6ZSgxMzIyLCAxNzQpCiAgICAgICAgc2VsZi5jZW50cmFsd2lkZ2V0ID0gUXRXaWRnZXRzLlFXaWRnZXQocGFyZW50PU1haW5XaW5kb3cpCiAgICAgICAgc2VsZi5jZW50cmFsd2lkZ2V0LnNldE9iamVjdE5hbWUoImNlbnRyYWx3aWRnZXQiKQogICAgICAgIHNlbGYubGF5b3V0V2lkZ2V0ID0gUXRXaWRnZXRzLlFXaWRnZXQocGFyZW50PXNlbGYuY2VudHJhbHdpZGdldCkKICAgICAgICBzZWxmLmxheW91dFdpZGdldC5zZXRHZW9tZXRyeShRdENvcmUuUVJlY3QoMjAsIDIwLCAxMjgxLCAxMTEpKQogICAgICAgIHNlbGYubGF5b3V0V2lkZ2V0LnNldE9iamVjdE5hbWUoImxheW91dFdpZGdldCIpCiAgICAgICAgc2VsZi5ob3Jpem9udGFsTGF5b3V0XzIgPSBRdFdpZGdldHMuUUhCb3hMYXlvdXQoc2VsZi5sYXlvdXRXaWRnZXQpCiAgICAgICAgc2VsZi5ob3Jpem9udGFsTGF5b3V0XzIuc2V0Q29udGVudHNNYXJnaW5zKDAsIDAsIDAsIDApCiAgICAgICAgc2VsZi5ob3Jpem9udGFsTGF5b3V0XzIuc2V0T2JqZWN0TmFtZSgiaG9yaXpvbnRhbExheW91dF8yIikKICAgICAgICBzZWxmLnZlcnRpY2FsTGF5b3V0XzIgPSBRdFdpZGdldHMuUVZCb3hMYXlvdXQoKQogICAgICAgIHNlbGYudmVydGljYWxMYXlvdXRfMi5zZXRPYmplY3ROYW1lKCJ2ZXJ0aWNhbExheW91dF8yIikKICAgICAgICBzZWxmLnJtID0gUXRXaWRnZXRzLlFQdXNoQnV0dG9uKHBhcmVudD1zZWxmLmxheW91dFdpZGdldCkKCiAgICAgICAgc2VsZi5ybS5zZXRGb250KEZPTlQpCiAgICAgICAgc2VsZi5ybS5zZXRDdXJzb3IoUXRHdWkuUUN1cnNvcigKICAgICAgICAgICAgUXRDb3JlLlF0LkN1cnNvclNoYXBlLlBvaW50aW5nSGFuZEN1cnNvcikpCiAgICAgICAgc2VsZi5ybS5zZXRPYmplY3ROYW1lKCJybSIpCiAgICAgICAgc2VsZi52ZXJ0aWNhbExheW91dF8yLmFkZFdpZGdldChzZWxmLnJtKQogICAgICAgIHNlbGYuY20gPSBRdFdpZGdldHMuUVB1c2hCdXR0b24ocGFyZW50PXNlbGYubGF5b3V0V2lkZ2V0KQoKICAgICAgICBzZWxmLmNtLnNldEZvbnQoRk9OVCkKICAgICAgICBzZWxmLmNtLnNldEN1cnNvcihRdEd1aS5RQ3Vyc29yKAogICAgICAgICAgICBRdENvcmUuUXQuQ3Vyc29yU2hhcGUuUG9pbnRpbmdIYW5kQ3Vyc29yKSkKICAgICAgICBzZWxmLmNtLnNldE9iamVjdE5hbWUoImNtIikKICAgICAgICBzZWxmLnZlcnRpY2FsTGF5b3V0XzIuYWRkV2lkZ2V0KHNlbGYuY20pCiAgICAgICAgc2VsZi5ob3Jpem9udGFsTGF5b3V0XzIuYWRkTGF5b3V0KHNlbGYudmVydGljYWxMYXlvdXRfMikKICAgICAgICBzZWxmLmhvcml6b250YWxMYXlvdXQgPSBRdFdpZGdldHMuUUhCb3hMYXlvdXQoKQogICAgICAgIHNlbGYuaG9yaXpvbnRhbExheW91dC5zZXRPYmplY3ROYW1lKCJob3Jpem9udGFsTGF5b3V0IikKICAgICAgICBzZWxmLmlucHV0XyA9IFF0V2lkZ2V0cy5RTGluZUVkaXQocGFyZW50PXNlbGYubGF5b3V0V2lkZ2V0KQoKICAgICAgICBzZWxmLmlucHV0Xy5zZXRGb250KEZPTlQpCiAgICAgICAgc2VsZi5pbnB1dF8uc2V0Q3Vyc29yKFF0R3VpLlFDdXJzb3IoUXRDb3JlLlF0LkN1cnNvclNoYXBlLklCZWFtQ3Vyc29yKSkKICAgICAgICBzZWxmLmlucHV0Xy5zZXRQbGFjZWhvbGRlclRleHQoIkVudGVyIHRoZSBleHByZXNzaW9uIikKICAgICAgICBzZWxmLmlucHV0Xy5zZXRDbGVhckJ1dHRvbkVuYWJsZWQoVHJ1ZSkKICAgICAgICBzZWxmLmlucHV0Xy5zZXRPYmplY3ROYW1lKCJpbnB1dF8iKQogICAgICAgIHNlbGYuaG9yaXpvbnRhbExheW91dC5hZGRXaWRnZXQoc2VsZi5pbnB1dF8pCiAgICAgICAgc2VsZi5idG4gPSBRdFdpZGdldHMuUVB1c2hCdXR0b24ocGFyZW50PXNlbGYubGF5b3V0V2lkZ2V0KQoKICAgICAgICBzZWxmLmJ0bi5zZXRGb250KEZPTlQpCiAgICAgICAgc2VsZi5idG4uc2V0Q3Vyc29yKFF0R3VpLlFDdXJzb3IoCiAgICAgICAgICAgIFF0Q29yZS5RdC5DdXJzb3JTaGFwZS5Qb2ludGluZ0hhbmRDdXJzb3IpKQogICAgICAgIHNlbGYuYnRuLnNldERlZmF1bHQoRmFsc2UpCiAgICAgICAgc2VsZi5idG4uc2V0T2JqZWN0TmFtZSgiYnRuIikKICAgICAgICBzZWxmLmhvcml6b250YWxMYXlvdXQuYWRkV2lkZ2V0KHNlbGYuYnRuKQogICAgICAgIHNlbGYucmVzdWx0ID0gUXRXaWRnZXRzLlFMaW5lRWRpdChwYXJlbnQ9c2VsZi5sYXlvdXRXaWRnZXQpCgogICAgICAgIHNlbGYucmVzdWx0LnNldEZvbnQoRk9OVCkKICAgICAgICBzZWxmLnJlc3VsdC5zZXRSZWFkT25seShUcnVlKQogICAgICAgIHNlbGYucmVzdWx0LnNldE9iamVjdE5hbWUoInJlc3VsdCIpCiAgICAgICAgc2VsZi5ob3Jpem9udGFsTGF5b3V0LmFkZFdpZGdldChzZWxmLnJlc3VsdCkKICAgICAgICBzZWxmLmhvcml6b250YWxMYXlvdXRfMi5hZGRMYXlvdXQoc2VsZi5ob3Jpem9udGFsTGF5b3V0KQogICAgICAgIHNlbGYudmVydGljYWxMYXlvdXQgPSBRdFdpZGdldHMuUVZCb3hMYXlvdXQoKQogICAgICAgIHNlbGYudmVydGljYWxMYXlvdXQuc2V0T2JqZWN0TmFtZSgidmVydGljYWxMYXlvdXQiKQogICAgICAgIHNlbGYubV9wbHVzID0gUXRXaWRnZXRzLlFQdXNoQnV0dG9uKHBhcmVudD1zZWxmLmxheW91dFdpZGdldCkKCiAgICAgICAgc2VsZi5tX3BsdXMuc2V0Rm9udChGT05UKQogICAgICAgIHNlbGYubV9wbHVzLnNldEN1cnNvcihRdEd1aS5RQ3Vyc29yKAogICAgICAgICAgICBRdENvcmUuUXQuQ3Vyc29yU2hhcGUuUG9pbnRpbmdIYW5kQ3Vyc29yKSkKICAgICAgICBzZWxmLm1fcGx1cy5zZXRPYmplY3ROYW1lKCJtX3BsdXMiKQogICAgICAgIHNlbGYudmVydGljYWxMYXlvdXQuYWRkV2lkZ2V0KHNlbGYubV9wbHVzKQogICAgICAgIHNlbGYubV9taW51cyA9IFF0V2lkZ2V0cy5RUHVzaEJ1dHRvbihwYXJlbnQ9c2VsZi5sYXlvdXRXaWRnZXQpCgogICAgICAgIHNlbGYubV9taW51cy5zZXRGb250KEZPTlQpCiAgICAgICAgc2VsZi5tX21pbnVzLnNldEN1cnNvcihRdEd1aS5RQ3Vyc29yKAogICAgICAgICAgICBRdENvcmUuUXQuQ3Vyc29yU2hhcGUuUG9pbnRpbmdIYW5kQ3Vyc29yKSkKICAgICAgICBzZWxmLm1fbWludXMuc2V0T2JqZWN0TmFtZSgibV9taW51cyIpCiAgICAgICAgc2VsZi52ZXJ0aWNhbExheW91dC5hZGRXaWRnZXQoc2VsZi5tX21pbnVzKQogICAgICAgIHNlbGYuaG9yaXpvbnRhbExheW91dF8yLmFkZExheW91dChzZWxmLnZlcnRpY2FsTGF5b3V0KQogICAgICAgIE1haW5XaW5kb3cuc2V0Q2VudHJhbFdpZGdldChzZWxmLmNlbnRyYWx3aWRnZXQpCiAgICAgICAgc2VsZi5tZW51YmFyID0gUXRXaWRnZXRzLlFNZW51QmFyKHBhcmVudD1NYWluV2luZG93KQogICAgICAgIHNlbGYubWVudWJhci5zZXRHZW9tZXRyeShRdENvcmUuUVJlY3QoMCwgMCwgMTMyMiwgMjMpKQoKICAgICAgICBzZWxmLm1lbnViYXIuc2V0Rm9udChGT05UKQogICAgICAgIHNlbGYubWVudWJhci5zZXRDdXJzb3IoUXRHdWkuUUN1cnNvcigKICAgICAgICAgICAgUXRDb3JlLlF0LkN1cnNvclNoYXBlLlBvaW50aW5nSGFuZEN1cnNvcikpCiAgICAgICAgc2VsZi5tZW51YmFyLnNldE9iamVjdE5hbWUoIm1lbnViYXIiKQogICAgICAgIE1haW5XaW5kb3cuc2V0TWVudUJhcihzZWxmLm1lbnViYXIpCgogICAgICAgIHNlbGYucmV0cmFuc2xhdGVVaShNYWluV2luZG93KQogICAgICAgIFF0Q29yZS5RTWV0YU9iamVjdC5jb25uZWN0U2xvdHNCeU5hbWUoTWFpbldpbmRvdykKCiAgICBkZWYgcmV0cmFuc2xhdGVVaShzZWxmLCBNYWluV2luZG93KToKICAgICAgICBfdHJhbnNsYXRlID0gUXRDb3JlLlFDb3JlQXBwbGljYXRpb24udHJhbnNsYXRlCiAgICAgICAgTWFpbldpbmRvdy5zZXRXaW5kb3dUaXRsZShfdHJhbnNsYXRlKCJNYWluV2luZG93IiwgIkNhbGN1bGF0b3IiKSkKICAgICAgICBzZWxmLnJtLnNldFRleHQoX3RyYW5zbGF0ZSgiTWFpbldpbmRvdyIsICJSTSIpKQogICAgICAgIHNlbGYuY20uc2V0VGV4dChfdHJhbnNsYXRlKCJNYWluV2luZG93IiwgIkNNIikpCiAgICAgICAgc2VsZi5idG4uc2V0VGV4dChfdHJhbnNsYXRlKCJNYWluV2luZG93IiwgIj0iKSkKICAgICAgICBzZWxmLm1fcGx1cy5zZXRUZXh0KF90cmFuc2xhdGUoIk1haW5XaW5kb3ciLCAiTSsiKSkKICAgICAgICBzZWxmLm1fbWludXMuc2V0VGV4dChfdHJhbnNsYXRlKCJNYWluV2luZG93IiwgIk0tIikpCgoKQ0FMQ1VMQVRPUiA9IENhbGN1bGF0b3IoKQoKCmNsYXNzIENhbGNfV2luZG93KFFNYWluV2luZG93LCBVaV9NYWluV2luZG93KToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCiAgICAgICAgc2VsZi5zZXR1cFVpKHNlbGYpCgogICAgICAgIHNlbGYuaW5pdFVJKCkKICAgICAgICBzZWxmLm1lbSA9ICIiCgogICAgZGVmIGluaXRVSShzZWxmKToKICAgICAgICBzZWxmLnNldEZvY3VzKCkKICAgICAgICBzZWxmLmJ0bi5jbGlja2VkLmNvbm5lY3Qoc2VsZi5jYWxjdWxhdGUpCiAgICAgICAgc2VsZi5tX3BsdXMuY2xpY2tlZC5jb25uZWN0KHNlbGYubV9wKQogICAgICAgIHNlbGYubV9taW51cy5jbGlja2VkLmNvbm5lY3Qoc2VsZi5tX20pCiAgICAgICAgc2VsZi5ybS5jbGlja2VkLmNvbm5lY3Qoc2VsZi5ybV8pCiAgICAgICAgc2VsZi5jbS5jbGlja2VkLmNvbm5lY3Qoc2VsZi5jbV8pCiAgICAgICAgc2VsZi5tZW51YmFyLmFkZEFjdGlvbignSGVscCAoRjEpJywgc2VsZi5oZWxwKQogICAgICAgIHNlbGYubWVudWJhci5hZGRBY3Rpb24oJ0NhbGN1bGF0ZSAoRjUpJywgc2VsZi5jYWxjdWxhdGUpCgogICAgZGVmIGNtXyhzZWxmKToKICAgICAgICBzZWxmLm1lbSA9ICIiCiAgICAgICAgc2VsZi5pbnB1dF8uc2V0Rm9jdXMoKQoKICAgIGRlZiBzZXRGb2N1cyhzZWxmKToKICAgICAgICBzZWxmLnJlc3VsdC5zZXRUZXh0KCIiKQogICAgICAgIHNlbGYuaW5wdXRfLnNldEZvY3VzKCkKCiAgICBkZWYgY2FsY3VsYXRlKHNlbGYpOgoKICAgICAgICBzZWxmLnJlc3VsdC5zZXRUZXh0KAogICAgICAgICAgICBDQUxDVUxBVE9SLmNhbGN1bGF0ZShzZWxmLmlucHV0Xy50ZXh0KCkpKQogICAgICAgIHNlbGYuaW5wdXRfLnNldFRleHQoIiIpCiAgICAgICAgc2VsZi5pbnB1dF8uc2V0Rm9jdXMoKQoKICAgIGRlZiBybV8oc2VsZik6CgogICAgICAgIHNlbGYuaW5wdXRfLnNldFRleHQoc2VsZi5pbnB1dF8udGV4dCgpICsgc2VsZi5tZW0pCiAgICAgICAgc2VsZi5zZXRGb2N1cygpCgogICAgZGVmIHNldF9tKHNlbGYpOgogICAgICAgIHJldHVybiBmbG9hdChzZWxmLnJlc3VsdC50ZXh0KCkpCgogICAgZGVmIG1fcF9tKHNlbGYsIGEpOgogICAgICAgIHRyeToKICAgICAgICAgICAgc2VsZi5tZW0gPSBhICsgc3RyKHNlbGYuc2V0X20oKSkKICAgICAgICAgICAgc2VsZi5zZXRGb2N1cygpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwoKICAgIGRlZiBtX3Aoc2VsZik6CiAgICAgICAgc2VsZi5tX3BfbSgnJykKCiAgICBkZWYgbV9tKHNlbGYpOgogICAgICAgIHNlbGYubV9wX20oJy0nKQoKICAgIGRlZiBpbml0X2hlbHAoc2VsZik6CiAgICAgICAgc2VsZi5kbGcgPSBRTWVzc2FnZUJveChzZWxmKQogICAgICAgIHNlbGYuZGxnLnNldFdpbmRvd1RpdGxlKCJIZWxwIikKICAgICAgICBzZWxmLmRsZy5zZXRGb250KEZPTlQpCiAgICAgICAgc2VsZi5kbGcuc2V0VGV4dCgiRnVuY3Rpb25zOlxuYWJzKHgpIC0gRmluZCB0aGUgbW9kdWxlIG9mIHRoZSBudW1iZXIgeFxuY29zKHgpIC0gRmluZCB0aGUgY29zaW5lIG9mIHRoZSBudW1iZXIgeFxuY3RnKHgpIC0gRmluZCB0aGUgY290YW5nZW50IG9mIHRoZSBudW1iZXIgeFxuZGVnKHgpIC0gQ29udmVydCB4IHJhZGlhbnMgdG8gZGVncmVlc1xuc2luKHgpIC0gRmluZCB0aGUgc2luZSBvZiB0aGUgbnVtYmVyIHhcbnJhZCh4KSAtIENvbnZlcnQgeCBkZWdyZWVzIHRvIHJhZGlhbnNcbnNxcnQoeCkgLSBGaW5kIHRoZSBzcXVhcmUgcm9vdCBvZiB0aGUgbnVtYmVyIHhcbnRnKHgpIC0gZmluZCB0aGUgdGFuZ2VudCBvZiB0aGUgbnVtYmVyIHgiKQogICAgICAgIHNlbGYuZGxnLnNldEN1cnNvcihRdEd1aS5RQ3Vyc29yKAogICAgICAgICAgICBRdENvcmUuUXQuQ3Vyc29yU2hhcGUuUG9pbnRpbmdIYW5kQ3Vyc29yKSkKICAgICAgICBzZWxmLmRsZy5leGVjKCkKCiAgICBkZWYgaGVscChzZWxmKToKICAgICAgICBzZWxmLmluaXRfaGVscCgpCgogICAgZGVmIGtleVByZXNzRXZlbnQoc2VsZiwgZSk6CiAgICAgICAgaWYgZS5rZXkoKSA9PSBRdC5LZXkuS2V5X0Y1LnZhbHVlOgogICAgICAgICAgICBzZWxmLmNhbGN1bGF0ZSgpCiAgICAgICAgZWxpZiBlLmtleSgpID09IFF0LktleS5LZXlfRjEudmFsdWU6CiAgICAgICAgICAgIHNlbGYuaGVscCgpCgoKZGVmIG1haW4oKToKICAgIHFkYXJrdGhlbWUuZW5hYmxlX2hpX2RwaSgpCiAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICBxZGFya3RoZW1lLnNldHVwX3RoZW1lKAogICAgICAgIGN1c3RvbV9jb2xvcnM9eyJwcmltYXJ5IjogImZmZiJ9KQogICAgZXggPSBDYWxjX1dpbmRvdygpCiAgICBleC5zaG93KCkKICAgIHN5cy5leGl0KGFwcC5leGVjKCkpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQoAAAAAAAAAAG4eAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"virtu",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"qu",
+				"Git: Quick Commit (repo)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nikita/Python_Projects/Calculator"
+	],
+	"file_history":
+	[
+		"/home/nikita/.config/sublime-text/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/home/nikita/.config/sublime-text/Packages/Virtualenv/README.md",
+		"/home/nikita/.config/sublime-text/Packages/User/Virtualenv.sublime-settings",
+		"/home/nikita/Python_Projects/Android_Calc/Calculator.py",
+		"/home/nikita/Python_Projects/Android_Calc/calculator.kv",
+		"/home/nikita/Python_Projects/Calculator/Calculator.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Calculator.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2225,
+								2225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "Calculator.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
