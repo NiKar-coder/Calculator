@@ -6,7 +6,7 @@ import qdarktheme
 import math
 
 
-class Calculator():
+class Calculator:
     def __init__(self):
         self.globs = {
             "__builtins__": {},
