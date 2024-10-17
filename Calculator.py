@@ -68,7 +68,7 @@ class Ui_MainWindow(object):
 
         self.input_.setFont(FONT)
         self.input_.setCursor(QtGui.QCursor(QtCore.Qt.CursorShape.IBeamCursor))
-        self.input_.setPlaceholderText("Введите выражение")
+        self.input_.setPlaceholderText("Enter the expression")
         self.input_.setClearButtonEnabled(True)
         self.input_.setObjectName("input_")
         self.horizontalLayout.addWidget(self.input_)
