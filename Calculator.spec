@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Calculator.py'],
+    ['E:\\Python_Projects\\Calculator\\Calculator.py'],
     pathex=[],
     binaries=[],
     datas=[],
