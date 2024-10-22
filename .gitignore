@@ -3,3 +3,4 @@ Calculator
 dist
 Calculator.ico
 Calculator.spec
+pyinstaller.txt
